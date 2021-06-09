@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Control.gd" type="Script" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Control" type="Control" parent="."]
+margin_left = -137.125
+margin_top = -193.419
+margin_right = 889.875
+margin_bottom = 412.581
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
